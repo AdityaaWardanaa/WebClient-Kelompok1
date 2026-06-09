@@ -7,3 +7,4 @@ This is a company profile.
 - Ahmad Muwaffaq
 - Anggi Debia Zahra
 - Aditya Wardana
+- Deva Nanda Alfarizi
