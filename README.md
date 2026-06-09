@@ -8,3 +8,4 @@ This is a company profile.
 - Anggi Debia Zahra
 - Aditya Wardana
 - Deva Nanda Alfarizi
+- Galih Agung Nurfadhilah
