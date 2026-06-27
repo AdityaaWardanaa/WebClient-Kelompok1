@@ -5,6 +5,6 @@
     "web"
   ],
   "scripts": {
-    "test": "echo hello"
+    "dev:web": "npm --workspace web run dev"
   }
 }
