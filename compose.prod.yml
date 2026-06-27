@@ -16,9 +16,6 @@ services:
       - "127.0.0.1:3000:3000"
     networks:
       - strapi
-    depends_on:
-      strapi:
-        condition: service_healthy
 
   strapi:
     container_name: strapi
